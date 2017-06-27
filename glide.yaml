@@ -1,0 +1,5 @@
+package: ccg
+import:
+- package: github.com/davecgh/go-spew/spew
+- package: gopkg.in/alecthomas/kingpin.v2
+- package: github.com/ryanuber/go-glob
